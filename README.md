@@ -61,3 +61,10 @@ Kinetic_Piezoelectric_Extractor/
 
 ## Evidence and authorship
 The Wokwi design and original project model were supplied by the student. Documentation and numerical sweep were prepared from that model with assistance; verify and adapt wording to accurately describe your own contribution. No fabricated physical measurements or invented development history are presented. Add actual simulation screenshots and your own demonstration video to the `media/` folder. Git commits should reflect actual development; do not backdate or fabricate commit history.
+## Video Demonstration
+
+Watch the demonstration of my Kinetic Piezoelectric Extractor project:
+
+[**Watch Project Demonstration (Google Drive)**](https://drive.google.com/file/d/1ydaa1THEffnFVKQ40PbyZInmeCTNHzif/view?usp=drivesdk)
+
+The video demonstrates the Arduino simulation in Wokwi, joystick-controlled vibration parameters, energy storage monitoring, and sensor activation using LED indicators.
